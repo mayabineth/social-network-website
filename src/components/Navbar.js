@@ -42,7 +42,7 @@ function Navbar() {
     <AppBar position="sticky">
       <S_ToolBar>
         <Typography variant="h6" sx={{ display: { xs: "none", sm: "block" } }}>
-          LAMA DEV
+          LINK ME
         </Typography>
         <Apps sx={{ display: { xs: "block", sm: "none" } }} />
         <Search>
